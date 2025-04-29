@@ -25,5 +25,5 @@ def detect_text(path, api_key):
 
 if __name__ == '__main__':
     image_path = 'caminho/para/sua/imagem.jpg'
-    your_api_key =   # Substitua pela sua chave real
+    your_api_key = ''  # Substitua pela sua chave real
     detect_text(image_path, your_api_key)
